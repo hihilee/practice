@@ -1,7 +1,8 @@
 red
 black
 green
-green
 blue
 pink
+orange
+
 
